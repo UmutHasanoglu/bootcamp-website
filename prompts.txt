@@ -1,0 +1,33 @@
+Promtp 1:
+I need you to design a website. Website will contain HTML, CSS and Javascript codes. You need to write three main scripts:"index.html","styles.css", and "script.js".
+Website's name will be "AI Art Gallery: Inspire, Create, Explore". I will share my AI generated images in the website along with image title, image generation model name, and prompts. This is a portfolio website to showcase my AI generated image collection.
+I will edit the website code using Visual Studio Code and Notepad++i.
+There should be a main page and an info page.
+In the HTML structure of the website, semantic tags (header, main, nav, section, article, aside, footer) are expected to be used.
+Responsive Design (Optional): The created website must be compatible with different devices and screen sizes. It should display properly on mobile, tablet and desktop devices, and the design should be optimized in all dimensions to enhance user experience.
+Give me the codes for this website.
+
+Prompt 2:
+Images should look like in gallery view, 4 images on each row.
+
+Prompt 3:
+h2 title should be on top of the grid but it looks like its at the left side of the image grid
+
+Prompt 4:
+I also need to add logo for the website. How can I do that? Filename for logo is "a_logo_AI_Art_Gallery.jpg"
+
+Prompt 5:
+How can I make the logo smaller?
+
+Prompt 6:
+My logo should be on the left side of the h1 title
+
+
+Ideogram AI - Logo prompt:
+A sleek and modern logo for an "AI Art Gallery." The design features a stylized, abstract painting palette with a robotic, futuristic touch. The palette appears to emit a digital glow, representing the fusion of art and technology. The gallery name, "AI Art Gallery," is displayed prominently in a bold, contemporary font, inviting visitors to explore the innovative and boundary-pushing creations within.
+
+Prompts for AI generated images:
+- In front view, close up portrait of a dog wearing 1960s mid-century space-age fashion, backdrop is a deep, neutral blue, setting a stark contrast that accentuates the subject. fluorescent yellow shade, wearing a very fashionable lounge coat and sunglasses are a hip 1960s style, clothing all in one color
+- horse silhouette flat, illustration
+- Cute kawaii heart sticker, 2d, vector art, flat
+- a cute girl winking,character icon vector illustration, in the style of comic/cartoon,single solid color background --ar 1:1
